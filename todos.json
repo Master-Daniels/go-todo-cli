@@ -1,6 +1,6 @@
 [
     { "text": "New important todo again", "priority": 1, "done": true },
-    { "text": "Whats the update", "priority": 1, "done": true },
     { "text": "New important todo again again", "priority": 3, "done": true },
+    { "text": "New important todo again again", "priority": 2, "done": true },
     { "text": "Not New important todo", "priority": 3, "done": false }
 ]
